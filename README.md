@@ -1,7 +1,5 @@
 # 🌾 FarmStack — Blockchain-Powered Agricultural Supply Chain MVP
 
-🔗 **Live Demo:** [FarmStack on Vercel](https://farmstack-six.vercel.app/)  
-
 FarmStack is a **frontend simulation** of a blockchain-based agricultural supply chain built with **Vite + React + TypeScript**.  
 It showcases the entire farm-to-consumer journey through role-based dashboards, QR code integration, and traceability—all optimized for real-world usability without requiring a backend or database.  
 The codebase is ready for **Polygon testnet smart contract integration**.
