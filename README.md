@@ -63,9 +63,6 @@ The app will be available at → `http://localhost:5173`
 
 ## 🌍 Deployment on Vercel
 
-The live demo is currently hosted at:  
-👉 [FarmStack on Vercel](https://farmstack-six.vercel.app/)
-
 To deploy or redeploy in your own Vercel account:
 - **Framework Preset:** Vite  
 - **Build Command:** `npm run build`  
